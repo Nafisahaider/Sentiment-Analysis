@@ -1,8 +1,8 @@
-# Sentiment-Analysis
+## Sentiment-Analysis
 Sentiment Analysis using TF-IDF and Logistic Regression
 This project demonstrates a basic implementation of sentiment analysis using TF-IDF vectorization and Logistic Regression. It includes text preprocessing, feature extraction, model training, and evaluation.
 
-Features
+# Features
 
 Text data preprocessing
 
@@ -14,19 +14,19 @@ Model evaluation with metrics like confusion matrix and classification report
 
 Data visualization using matplotlib and seaborn
 
-Requirements
+# Requirements
 
 Ensure you have the following Python libraries installed:
 
 pip install pandas scikit-learn matplotlib seaborn nltk
 
-Files
+# Files
 
 NLP.ipynb: Jupyter Notebook containing the complete implementation.
 
-Implementation Steps
+## Implementation Steps
 
-Data Preprocessing:
+# Data Preprocessing:
 
 Import and clean text data.
 
@@ -50,7 +50,7 @@ Visualization:
 
 Use matplotlib and seaborn for visualizing data and results.
 
-How to Use
+# How to Use
 
 Clone this repository:
 
@@ -66,7 +66,7 @@ jupyter notebook NLP.ipynb
 
 Run the cells in the notebook to execute the code step by step.
 
-Dependencies
+# Dependencies
 
 The project uses the following libraries:
 
@@ -80,7 +80,7 @@ matplotlib and seaborn for visualization
 
 nltk for natural language processing
 
-Results
+# Results
 
 The project outputs:
 
@@ -90,6 +90,6 @@ Evaluation metrics such as precision, recall, F1-score, and confusion matrix
 
 Visualizations of data and model performance
 
-Contributing
+# Contributing
 
 Feel free to contribute by creating pull requests or reporting issues.
